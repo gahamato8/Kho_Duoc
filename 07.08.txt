@@ -1,0 +1,6 @@
+Lãnh chưa làm được cộng dồn 
+
+this.hide frm duyet luc cap (dang fix)
+
+ChiTietPhieuHuy     ChuaLam
+ChiTietPhieuLuuTru  ChuaLam
